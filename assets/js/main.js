@@ -13,7 +13,7 @@ $(document).ready(function () {
     //Termino smooth scroll//
     //Intervalo para carousel//
     $('#carouselSeccion').carousel({
-        interval: 200
+        interval: 5000
     });
 })
 
