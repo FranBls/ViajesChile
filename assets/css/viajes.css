@@ -1,0 +1,48 @@
+body{
+    font-family: 'Familjen Grotesk', sans-serif;
+    background-color:#FDF5E6;
+}
+.navColor {
+    background-color: rgba(108, 117, 115, 0.35);
+}
+hr{
+    background-color: #6B8E23;
+    height: 1pt;
+}
+.titulo1 {
+    font-size: 60px;
+    font-weight: bold;
+    color: #2F4F4F;
+}
+.iconos {
+    background-color: #6B8E23;
+    color: #FFFAFA;
+}
+section div p {
+    font-style: italic;
+    font-weight: bolder;
+}
+.card-text {
+    font-style: normal;
+    font-weight: lighter;
+}
+#contactoSeccion {
+    height: 600px;
+}
+.hrContacto {
+    background-color: #6B8E23;
+    width: 850pt;
+    height: 1pt;
+}
+.botonC p{
+    font-style: normal;
+    font-weight: lighter;
+}
+#footer {
+    background-color: #2F4F4F;
+    height: 150px;
+}
+#footer a {
+    color: #ffffff;
+    text-decoration: none;
+}
